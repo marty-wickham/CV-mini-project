@@ -55,10 +55,12 @@ h4 {
     font-family: "Exo", sans-serif;
     font-weight: 300;
     color: #fafafa;
+    text-align: center;  /* added in */
 }
 
 .inline-block {
     display: inline-block;
+    text-align: center;    /* addded in */
 }
 
 .row-table {
@@ -90,7 +92,7 @@ header {
 }
 
 .logo {
-    background: url("../images/rosie.jpg");
+    background: url("../images/profile-phtoto.JPG");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
